@@ -9,7 +9,7 @@
 <stringAttribute key="com.android.ide.eclipse.adt.activity" value="com.todoroo.astrid.activity.TaskEditActivity"/>
 <stringAttribute key="com.android.ide.eclipse.adt.commandline" value="-scale 0.7 -partition-size 1024"/>
 <intAttribute key="com.android.ide.eclipse.adt.delay" value="0"/>
-<stringAttribute key="com.android.ide.eclipse.adt.last.used.device" value="test"/>
+<stringAttribute key="com.android.ide.eclipse.adt.last.used.device" value="emulator-5554"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.nobootanim" value="true"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.reuse.last.used.device" value="true"/>
 <intAttribute key="com.android.ide.eclipse.adt.speed" value="0"/>

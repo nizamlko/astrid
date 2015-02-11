@@ -42,7 +42,7 @@
     <com.todoroo.astrid.ui.MultilineCheckboxPreference
        android:key="@string/p_rmd_nagging"
        android:title="@string/rmd_EPr_nagging_title"
-       android:defaultValue="true"  />
+       android:defaultValue="false"  />
     <com.todoroo.astrid.ui.MultilineCheckboxPreference
        android:key="@string/p_rmd_snooze_dialog"
        android:title="@string/rmd_EPr_snooze_dialog_title"
