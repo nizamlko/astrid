@@ -9,7 +9,7 @@
   <!-- ================================================== AndroidManifest == -->
 
   <!-- slide 32k: Application Name (shown on home screen & in launcher) -->
-  <string name="app_name">Astrid Tasks</string>
+  <string name="app_name">Smart Tasks</string>
   
   <!-- permission title for READ_TASKS -->
   <string name="read_permission_label">Astrid Permission</string>
